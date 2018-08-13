@@ -24,7 +24,7 @@ Conducting the literature review helped us identify key variables important to b
 
 We’ll start with our background research on the subject of learning outcomes and GitHub, and then dig in deeper with more detailed explanations of the data you’ll find in the slides above. 
 
-Further, the literature review guided our predictions for how using GitHub in the classroom may affect student learning, which we 
+Further, the literature review guided our predictions for how using GitHub in the classroom may affect student learning, which we used to inform our research study. 
 
 ## Literature Review
 
