@@ -1,18 +1,18 @@
 # What do students learn by using GitHub? 
 ## Results from a classroom study of 8,000 teachers and students
 
-Overview
-Literature review
- GitHub Classroom Report 2018
-Method (slides 1-10)
-Learning outcomes: preparation for the future (slides 11-22)
- Learning outcomes: classroom experience (slides 23-37)
-Sense of belonging (slides 38-49)
-Feedback (slides 50-58)
-Learning GitHub (slides 59-64)
-Conclusion
-Sharing data for further research
-Bibliography
+* Overview
+* Literature review
+* GitHub Classroom Report 2018
+* Method (slides 1-10)
+* Learning outcomes: preparation for the future (slides 11-22)
+* Learning outcomes: classroom experience (slides 23-37)
+* Sense of belonging (slides 38-49)
+* Feedback (slides 50-58)
+* Learning GitHub (slides 59-64)
+* Conclusion
+* Sharing data for further research
+* Bibliography
 
 ## Overview
 
