@@ -179,7 +179,7 @@ Gunnarsson, Sara, Peter Larsson, Sara Månsson, Erik Mårtensson, and Jonathan S
 
 Kauffman, Douglas F. and Jenefer Husman, Effects of time perspective on student motivation: Introduction to a Special Issue. *Educational Psychology Review, 16*, (2004): 1-7, https://www.jstor.org/stable/23363944.
 
-Kember, David, Kenneth Lee, and Natalia Li, Cultivating a sense of belonging in part-time students. *International Journal of Lifelong Education. 20,* (2001): 326-341.
+Kember, David, Kenneth Lee, and Natalia Li, Cultivating a sense of belonging in part-time students. *International Journal of Lifelong Education. 20,* (2001): 326-341, https://doi.org/10.1080/02601370117754.
 
 Kertész, Csaba-Zoltán, Using GitHub in the classroom - a collaborative learning experience. *International Symposium for Design and Technology in Electronic Packaging,* Brașov, Romania, (2015): 381-386, https://doi.org/10.1109/SIITME.2015.7342358.
 
