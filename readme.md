@@ -181,7 +181,7 @@ Kauffman, Douglas F. and Jenefer Husman, Effects of time perspective on student 
 
 Kember, David, Kenneth Lee, and Natalia Li, Cultivating a sense of belonging in part-time students. *International Journal of Lifelong Education. 20,* (2001): 326-341.
 
-Kertész, Csaba-Zoltán, Using GitHub in the classroom - a collaborative learning experience. *International Symposium for Design and Technology in Electronic Packaging,* Brașov, Romania, (2015): 381-386.
+Kertész, Csaba-Zoltán, Using GitHub in the classroom - a collaborative learning experience. *International Symposium for Design and Technology in Electronic Packaging,* Brașov, Romania, (2015): 381-386, https://doi.org/10.1109/SIITME.2015.7342358.
 
 Marcketti, Sara B., and Elena E. Karpova, Getting ready for the real world: Student perspectives on bringing industry collaboration into the classroom. *Journal of Family and Consumer Sciences. 106*, (2014): 27-31.
 
