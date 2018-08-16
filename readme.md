@@ -171,7 +171,7 @@ Butler, Deborah L., and Philip H. Winne, Feedback and self-regulated learning: A
 
 Falkner, Katrina, and Nickolas J.G. Falkner, Supporting and structuring "contributing student pedagogy" in computer science curricula. *Computer Science Education, 22,* (2012): 413-443, https://doi.org/10.1080/08993408.2012.727713.
 
-Feliciano, Joseph, Margaret-Anne Story, and Alexey Zagalsky, Student experiences using GitHub in software engineering courses: A case study. *ICSE '16  Companion*, (2016): 1-10, http://dx.doi.org/10.1145/2889160.2889195.
+Feliciano, Joseph, Margaret-Anne Story, and Alexey Zagalsky, Student experiences using GitHub in software engineering courses: A case study. *ICSE '16  Companion*, (2016): 1-10, https://doi.org/10.1145/2889160.2889195.
 
 Freeman, Tierra M., Lynley H. Anderman, and Jane M. Jensen. Sense of belonging in college freshmen at the classroom and campus levels. *Journal of Experimental Education. 75*, (2007): 203-220, https://www.jstor.org/stable/20157456.
 
@@ -193,4 +193,4 @@ Soria, Krista M., and Michael J. Stebleton, M.J. First-generation students' acad
 
 Walton, Gregory M., Geoffrey L. Cohen, David Cwir, and Steven J. Spencer, Mere belonging: The power of social connections. *Journal of Personality and Social Psychology, 102*, (2012): 513-532, https://doi.org/10.1037/a0025731.
 
-Zagalsky, Alexey, Joseph Feliciano, Margaret-Anne Storey, Yiyun Zhao, and Weiliang Wang, The emergence of github as a collaborative platform for education. *In Proc. of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing,* (2015): 1906-1917, http://dx.doi.org/10.1145/2675133.2675284.
+Zagalsky, Alexey, Joseph Feliciano, Margaret-Anne Storey, Yiyun Zhao, and Weiliang Wang, The emergence of github as a collaborative platform for education. *In Proc. of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing,* (2015): 1906-1917, https://doi.org/10.1145/2675133.2675284.
