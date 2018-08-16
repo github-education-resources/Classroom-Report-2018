@@ -175,7 +175,7 @@ Feliciano, Joseph, Margaret-Anne Story, and Alexey Zagalsky, Student experiences
 
 Freeman, Tierra M., Lynley H. Anderman, and Jane M. Jensen. Sense of belonging in college freshmen at the classroom and campus levels. *Journal of Experimental Education. 75*, (2007): 203-220, https://www.jstor.org/stable/20157456.
 
-Gunnarsson, Sara, Peter Larsson, Sara Månsson, Erik Mårtensson, and Jonathan Sönnerup, Enhancing student engagement using GitHub as an educational tool. *Introduction to Teaching and Learning in Higher Education,* (2017): 1-14.
+Gunnarsson, Sara, Peter Larsson, Sara Månsson, Erik Mårtensson, and Jonathan Sönnerup, Enhancing student engagement using GitHub as an educational tool. *Introduction to Teaching and Learning in Higher Education,* (2017): 1-14, http://lup.lub.lu.se/record/04cae196-81fa-4e42-ba6d-f21b1148b19c
 
 Kauffman, Douglas F. and Jenefer Husman, Effects of time perspective on student motivation: Introduction to a Special Issue. *Educational Psychology Review, 16*, (2004): 1-7, https://www.jstor.org/stable/23363944.
 
