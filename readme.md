@@ -185,7 +185,7 @@ Kertész, Csaba-Zoltán, Using GitHub in the classroom - a collaborative learnin
 
 Marcketti, Sara B., and Elena E. Karpova, Getting ready for the real world: Student perspectives on bringing industry collaboration into the classroom. *Journal of Family and Consumer Sciences. 106*, (2014): 27-31, https://lib.dr.iastate.edu/aeshm_pubs/62.
 
-O'Keeffe, Patrick, A sense of belonging: Improving student retention. *College Student Journal. 47*, (2013): 605-613.
+O'Keeffe, Patrick, A sense of belonging: Improving student retention. *College Student Journal. 47*, (2013): 605-613, http://search.ebscohost.com/login.aspx?direct=true&db=pbh&AN=93813989.
 
 Pajares, Frank, Self-efficacy beliefs in academic settings. *Review of Educational Research, 66*, (1996): 543-578, https://doi.org/10.3102/00346543066004543.
 
