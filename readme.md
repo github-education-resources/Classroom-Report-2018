@@ -175,7 +175,7 @@ Feliciano, Joseph, Margaret-Anne Story, and Alexey Zagalsky, Student experiences
 
 Freeman, Tierra M., Lynley H. Anderman, and Jane M. Jensen. Sense of belonging in college freshmen at the classroom and campus levels. *Journal of Experimental Education. 75*, (2007): 203-220, https://www.jstor.org/stable/20157456.
 
-Gunnarsson, Sara, Peter Larsson, Sara Månsson, Erik Mårtensson, and Jonathan Sönnerup, Enhancing student engagement using GitHub as an educational tool. *Introduction to Teaching and Learning in Higher Education,* (2017): 1-14, http://lup.lub.lu.se/record/04cae196-81fa-4e42-ba6d-f21b1148b19c
+Gunnarsson, Sara, Peter Larsson, Sara Månsson, Erik Mårtensson, and Jonathan Sönnerup, Enhancing student engagement using GitHub as an educational tool. *Introduction to Teaching and Learning in Higher Education,* (2017): 1-14, http://lup.lub.lu.se/record/04cae196-81fa-4e42-ba6d-f21b1148b19c.
 
 Kauffman, Douglas F. and Jenefer Husman, Effects of time perspective on student motivation: Introduction to a Special Issue. *Educational Psychology Review, 16*, (2004): 1-7, https://www.jstor.org/stable/23363944.
 
@@ -183,7 +183,7 @@ Kember, David, Kenneth Lee, and Natalia Li, Cultivating a sense of belonging in 
 
 Kertész, Csaba-Zoltán, Using GitHub in the classroom - a collaborative learning experience. *International Symposium for Design and Technology in Electronic Packaging,* Brașov, Romania, (2015): 381-386, https://doi.org/10.1109/SIITME.2015.7342358.
 
-Marcketti, Sara B., and Elena E. Karpova, Getting ready for the real world: Student perspectives on bringing industry collaboration into the classroom. *Journal of Family and Consumer Sciences. 106*, (2014): 27-31.
+Marcketti, Sara B., and Elena E. Karpova, Getting ready for the real world: Student perspectives on bringing industry collaboration into the classroom. *Journal of Family and Consumer Sciences. 106*, (2014): 27-31, https://lib.dr.iastate.edu/aeshm_pubs/62.
 
 O'Keeffe, Patrick, A sense of belonging: Improving student retention. *College Student Journal. 47*, (2013): 605-613.
 
