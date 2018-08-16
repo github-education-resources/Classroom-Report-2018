@@ -189,7 +189,7 @@ O'Keeffe, Patrick, A sense of belonging: Improving student retention. *College S
 
 Pajares, Frank, Self-efficacy beliefs in academic settings. *Review of Educational Research, 66*, (1996): 543-578, https://doi.org/10.3102/00346543066004543.
 
-Soria, Krista M., and Michael J. Stebleton, M.J. First-generation students' academic engagement and retention. *Teaching in Higher Education. 17*, (2012): 673-685.
+Soria, Krista M., and Michael J. Stebleton, M.J. First-generation students' academic engagement and retention. *Teaching in Higher Education. 17*, (2012): 673-685, https://doi.org/10.1080/13562517.2012.666735.
 
 Walton, Gregory M., Geoffrey L. Cohen, David Cwir, and Steven J. Spencer, Mere belonging: The power of social connections. *Journal of Personality and Social Psychology, 102*, (2012): 513-532, https://doi.org/10.1037/a0025731.
 
