@@ -167,47 +167,30 @@ In the spirit of furthering research on learning with GitHub and technical educa
 
 ## Bibliography
 
-Butler, Deborah L., and Philip H. Winne, Feedback and self-regulated
-learning: A theoretical synthesis. *Review of Educational Research, 65*, (1995): 245-281, https://doi.org/10.3102/00346543065003245.
+Butler, Deborah L., and Philip H. Winne, Feedback and self-regulated learning: A theoretical synthesis. *Review of Educational Research, 65*, (1995): 245-281, https://doi.org/10.3102/00346543065003245.
 
-Falkner, Katrina, and Nickolas J.G. Falkner, Supporting and structuring
-"contributing student pedagogy" in computer science curricula. \*Computer Science Education, 22,\* (2012): 413-443, https://doi.org/10.1080/08993408.2012.727713.
+Falkner, Katrina, and Nickolas J.G. Falkner, Supporting and structuring "contributing student pedagogy" in computer science curricula. *Computer Science Education, 22,* (2012): 413-443, https://doi.org/10.1080/08993408.2012.727713.
 
-Feliciano, Joseph, Margaret-Anne Story, and Alexey Zagalsky, Student
-experiences using GitHub in software engineering courses: A case study. \*ICSE '16  Companion\*, (2016): 1-10, http://dx.doi.org/10.1145/2889160.2889195.
+Feliciano, Joseph, Margaret-Anne Story, and Alexey Zagalsky, Student experiences using GitHub in software engineering courses: A case study. *ICSE '16  Companion*, (2016): 1-10, https://doi.org/10.1145/2889160.2889195.
 
-Freeman, Tierra M., Lynley H. Anderman, and Jane M. Jensen. Sense of
-belonging in college freshmen at the classroom and campus levels. \*Journal of Experimental Education. 75\*, (2007): 203-220, https://www.jstor.org/stable/20157456.
+Freeman, Tierra M., Lynley H. Anderman, and Jane M. Jensen. Sense of belonging in college freshmen at the classroom and campus levels. *Journal of Experimental Education. 75*, (2007): 203-220, https://www.jstor.org/stable/20157456.
 
-Gunnarsson, Sara, Peter Larsson, Sara Månsson, Erik Mårtensson, and
-Jonathan Sönnerup, Enhancing student engagement using GitHub as an educational tool.*Introduction to Teaching and Learning in Higher Education,* (2017): 1-14.
+Gunnarsson, Sara, Peter Larsson, Sara Månsson, Erik Mårtensson, and Jonathan Sönnerup, Enhancing student engagement using GitHub as an educational tool. *Introduction to Teaching and Learning in Higher Education,* (2017): 1-14, http://lup.lub.lu.se/record/04cae196-81fa-4e42-ba6d-f21b1148b19c.
 
-Kauffman, Douglas F. and Jenefer Husman, Effects of time perspective on
-student motivation:
+Kauffman, Douglas F. and Jenefer Husman, Effects of time perspective on student motivation: Introduction to a Special Issue. *Educational Psychology Review, 16*, (2004): 1-7, https://www.jstor.org/stable/23363944.
 
-Introduction to a Special Issue. *Educational Psychology Review, 16*,
-(2004): 1-7, https://www.jstor.org/stable/23363944.
+Kember, David, Kenneth Lee, and Natalia Li, Cultivating a sense of belonging in part-time students. *International Journal of Lifelong Education. 20,* (2001): 326-341, https://doi.org/10.1080/02601370117754.
 
-Kember, David, Kenneth Lee, and Natalia Li, Cultivating a sense of
-belonging in part-time students. *International Journal of Lifelong Education. 20,* (2001): 326-341*.*
+Kertész, Csaba-Zoltán, Using GitHub in the classroom - a collaborative learning experience. *International Symposium for Design and Technology in Electronic Packaging,* Brașov, Romania, (2015): 381-386, https://doi.org/10.1109/SIITME.2015.7342358.
 
-Kertész, Csaba-Zoltán, Using GitHub in the classroom - a collaborative
-learning experience. \*International Symposium for Design and Technology in Electronic Packaging,\* Brașov, Romania, (2015): 381-386.
+Marcketti, Sara B., and Elena E. Karpova, Getting ready for the real world: Student perspectives on bringing industry collaboration into the classroom. *Journal of Family and Consumer Sciences. 106*, (2014): 27-31, https://lib.dr.iastate.edu/aeshm_pubs/62.
 
-Marcketti, Sara B., and Elena E. Karpova, Getting ready for the real
-world: Student perspectives on bringing industry collaboration into the classroom. \*Journal of Family and Consumer \**Sciences. 106*, (2014): 27-31.
+O'Keeffe, Patrick, A sense of belonging: Improving student retention. *College Student Journal. 47*, (2013): 605-613, http://search.ebscohost.com/login.aspx?direct=true&db=pbh&AN=93813989.
 
-O'Keeffe, Patrick, A sense of belonging: Improving student retention.
-*College Student Journal. **47*, (2013): 605-613.
+Pajares, Frank, Self-efficacy beliefs in academic settings. *Review of Educational Research, 66*, (1996): 543-578, https://doi.org/10.3102/00346543066004543.
 
-Pajares, Frank, Self-efficacy beliefs in academic settings. \*Review of
-Educational Research*, *66\*, (1996): 543-578, https://doi.org/10.3102/00346543066004543.
+Soria, Krista M., and Michael J. Stebleton, M.J. First-generation students' academic engagement and retention. *Teaching in Higher Education. 17*, (2012): 673-685, https://doi.org/10.1080/13562517.2012.666735.
 
-Soria, Krista M., and Michael J. Stebleton, M.J. First-generation
-students' academic engagement and retention. *Teaching in Higher Education. 17*, (2012): 673-685.
+Walton, Gregory M., Geoffrey L. Cohen, David Cwir, and Steven J. Spencer, Mere belonging: The power of social connections. *Journal of Personality and Social Psychology, 102*, (2012): 513-532, https://doi.org/10.1037/a0025731.
 
-Walton, Gregory M., Geoffrey L. Cohen, David Cwir, and Steven J.
-Spencer, Mere belonging: The power of social connections. \*Journal of Personality and Social Psychology, 102\*, (2012): 513-532, https://doi.org/10.1037/a0025731.
-
-Zagalsky, Alexey, Joseph Feliciano, Margaret-Anne Storey, Yiyun Zhao,
-and Weiliang Wang, The emergence of github as a collaborative platform for education. \*In Proc. of the 18th \*ACM Conference on Computer Supported Cooperative Work & Social Computing,\* (2015): 1906-1917, http://dx.doi.org/10.1145/2675133.2675284.
+Zagalsky, Alexey, Joseph Feliciano, Margaret-Anne Storey, Yiyun Zhao, and Weiliang Wang, The emergence of github as a collaborative platform for education. *In Proc. of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing,* (2015): 1906-1917, https://doi.org/10.1145/2675133.2675284.
